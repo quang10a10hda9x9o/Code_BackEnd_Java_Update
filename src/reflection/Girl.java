@@ -1,4 +1,4 @@
-package relection;
+package reflection;
 
 public class Girl {
     private String name;

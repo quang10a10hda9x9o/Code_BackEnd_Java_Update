@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="566f01b3-9339-47ac-bab1-ab9dab53f526" name="Default Changelist" comment="" />
+    <list default="true" id="566f01b3-9339-47ac-bab1-ab9dab53f526" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/anotion/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotion/NotEmpty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotion/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection1/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_T3H/relection/Girl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_T3H/relection/JsonName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_T3H/relection/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code_T3H/relection/SuperMan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/relection/Girl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/Girl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/relection/JsonName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/JsonName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/relection/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/relection/SuperMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/SuperMan.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +25,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VNpVu2WWxV8T0wLQe4lzr5qzsX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,7 +54,7 @@
       <recent name="F:\Code_T3H\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AnnotationExample.Application" />
       <module name="Code_T3H" />
@@ -74,12 +94,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="relection.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anotion.Main" />
       <module name="Code_T3H" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="annotation.*" />
+          <option name="PATTERN" value="anotion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reflection1.Main" />
+      <module name="Code_T3H" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reflection1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,10 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +152,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577103433058</updated>
-      <workItem from="1577103434482" duration="11031000" />
+      <workItem from="1577103434482" duration="11650000" />
+      <workItem from="1577196031146" duration="636000" />
+      <workItem from="1577321792357" duration="3729000" />
+      <workItem from="1577331796309" duration="2606000" />
     </task>
     <servers />
   </component>
@@ -126,25 +163,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1577152751054">
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1577334630780">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577152751054" />
-    <state width="1323" height="164" key="GridCell.Tab.0.bottom" timestamp="1577155205766">
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577334630780" />
+    <state width="1323" height="164" key="GridCell.Tab.0.bottom" timestamp="1577335305235">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577155205766" />
-    <state width="1323" height="164" key="GridCell.Tab.0.center" timestamp="1577155205766">
+    <state width="1323" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577335305235" />
+    <state width="1323" height="164" key="GridCell.Tab.0.center" timestamp="1577335305234">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577155205766" />
-    <state width="1323" height="164" key="GridCell.Tab.0.left" timestamp="1577155205765">
+    <state width="1323" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577335305234" />
+    <state width="1323" height="164" key="GridCell.Tab.0.left" timestamp="1577335305234">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577155205765" />
-    <state width="1323" height="164" key="GridCell.Tab.0.right" timestamp="1577155205766">
+    <state width="1323" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577335305234" />
+    <state width="1323" height="164" key="GridCell.Tab.0.right" timestamp="1577335305234">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577155205766" />
+    <state width="1323" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577335305234" />
+    <state x="65" y="0" key="new project wizard" timestamp="1577196070236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1577196070236" />
   </component>
 </project>

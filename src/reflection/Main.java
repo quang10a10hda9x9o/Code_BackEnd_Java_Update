@@ -1,7 +1,4 @@
-package relection;
-
-import annotation.Employee;
-import annotation.Normalize;
+package reflection;
 
 import java.lang.reflect.Field;
 
